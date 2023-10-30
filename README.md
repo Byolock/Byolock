@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Byolock
 - 👀 I’m interested in selfhosting
-- 🌱 I’m currently learning ASP.NET & Pythton
+- 🌱 I’m currently learning ASP.NET & Python
 - 💞️ I’m looking to collaborate on any small scale C# .NET or Python Project
 
 <!---
